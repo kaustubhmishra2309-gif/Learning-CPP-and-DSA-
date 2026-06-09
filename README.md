@@ -11,7 +11,7 @@ I am starting this journey before college even begins to build an unshakeable fo
 ### 🟢 Phase 1: C++ Fundamentals & Basic DSA (Current Goal)
 - [x] Variables, Constants & Data Types
 - [x] Input/Output (cin / cout) & Basic Math Logic
-- [ ] Conditional Statements (if-else, switch-case)
+- [X] Conditional Statements (if-else, switch-case)
 - [ ] Loops (for, while, do-while) & Pattern Problems
 - [ ] Functions (Pass by Value vs Pass by Reference)
 - [ ] Pointers & Memory Allocation
